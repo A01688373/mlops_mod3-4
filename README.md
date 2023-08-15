@@ -1,7 +1,7 @@
 # Deliverable: Continued use of GitHub
 
-Instructor: Carlos Mejia
-Student: Gabriela Sánchez
+### Instructor: Carlos Mejia
+### Student: Gabriela Sánchez
 
 The main benefits of using GitHub and having a repository are:
 1. You can track changes to your code across all versions.
@@ -17,3 +17,7 @@ The repositories worked on are the following:
 2. https://github.com/A01688373/mlops_mod3-2
 3. https://github.com/A01688373/mlops_mod3-3
 4. https://github.com/A01688373/mlops_mod3-4
+5. https://github.com/A01688373/mlops_mod3-5
+6. https://github.com/A01688373/mlops_mod3-6
+7. https://github.com/A01688373/mlops_mod3_itesm
+8. https://github.com/A01688373/mlops_mod3-8
